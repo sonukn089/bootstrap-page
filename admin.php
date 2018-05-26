@@ -15,12 +15,10 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-2" style="background-color: gray;">
-				<ul>
-					<li>Sonu</li>
-					<li>Monu</li>
-					<li>KKK</li>
-					<li>PPPP</li>
-				</ul>
+				<div>Sonu</div>
+				<div>Sonu</div>
+				<div>Sonu</div>
+				<div>Sonu</div>
 			</div>
 			<div class="col-sm-10">
 				<h3>Column 2</h3>	
