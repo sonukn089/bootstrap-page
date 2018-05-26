@@ -14,11 +14,22 @@
 	</center>
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-sm-2" style="background-color: gray;">
-				<div>Sonu</div>
-				<div>Sonu</div>
-				<div>Sonu</div>
-				<div>Sonu</div>
+			<div class="col-sm-2">
+				
+				<div class="panel-group" id="accordion">
+	                <div class="panel panel-default">
+	                    <div class="panel-heading">
+	                        <h4 class="panel-title">
+	                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Collapsible Group 1</a>
+	                        </h4>
+	                    </div>
+	                    <div id="collapse1" class="panel-collapse collapse in">
+	                        <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+	                             sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+	                        </div>
+	                    </div>
+	                </div>
+            	</div>
 			</div>
 			<div class="col-sm-10">
 				<h3>Column 2</h3>	
