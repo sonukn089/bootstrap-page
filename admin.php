@@ -71,29 +71,30 @@
   					<div class="panel panel-default">
 					    <div class="panel-heading">
 					      <h4 class="panel-title">
-					        <a data-toggle="collapse" href="#collapse5">Accountant</a>
+					        <a data-toggle="collapse" href="#collapse4">Accountant</a>
 					      </h4>
 					    </div>
-					    <div id="collapse5" class="panel-collapse collapse">
+					    <div id="collapse4" class="panel-collapse collapse">
 					      <ul class="list-group">
 					        <li class="list-group-item">Credit</li>
 					        <li class="list-group-item">Debit</li>
 					        <li class="list-group-item">Cash</li>
 					        <li class="list-group-item">Expens</li>
+					        <li class="list-group-item">Day Report</li>
 					      </ul>
 					    </div>
   					</div>
 				</div>
-				
+
 
 				<div class="panel-group">
   					<div class="panel panel-default">
 					    <div class="panel-heading">
 					      <h4 class="panel-title">
-					        <a data-toggle="collapse" href="#collapse4">Librarian</a>
+					        <a data-toggle="collapse" href="#collapse5">Librarian</a>
 					      </h4>
 					    </div>
-					    <div id="collapse4" class="panel-collapse collapse">
+					    <div id="collapse5" class="panel-collapse collapse">
 					      <ul class="list-group">
 					        <li class="list-group-item">9th Class</li>
 					        <li class="list-group-item">10th Class</li>
@@ -104,25 +105,27 @@
   					</div>
 				</div>
 
-				
 
 				<div class="panel-group">
   					<div class="panel panel-default">
 					    <div class="panel-heading">
 					      <h4 class="panel-title">
-					        <a data-toggle="collapse" href="#collapse5">Accountant</a>
+					        <a data-toggle="collapse" href="#collapse6">Setting</a>
 					      </h4>
 					    </div>
-					    <div id="collapse5" class="panel-collapse collapse">
+					    <div id="collapse6" class="panel-collapse collapse">
 					      <ul class="list-group">
-					        <li class="list-group-item">Credit</li>
-					        <li class="list-group-item">Debit</li>
-					        <li class="list-group-item">Cash</li>
-					        <li class="list-group-item">Expens</li>
+					        <li class="list-group-item">Courses</li>
+					        <li class="list-group-item">Batch Timing</li>
+					        <li class="list-group-item">Special Batch</li>
+					        <li class="list-group-item">New Batch</li>
+					        <li class="list-group-item">New Batch</li>
+					        <li class="list-group-item">Expense List</li>
 					      </ul>
 					    </div>
   					</div>
 				</div>
+
 
 			</div>
 
