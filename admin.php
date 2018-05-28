@@ -37,7 +37,7 @@
   					<div class="panel panel-default">
 					    <div class="panel-heading">
 					      <h4 class="panel-title">
-					        <a data-toggle="collapse" href="#collapse2">Student</a>
+					        <a data-toggle="collapse" href="#collapse2">Student Details</a>
 					      </h4>
 					    </div>
 					    <div id="collapse2" class="panel-collapse collapse">
@@ -79,9 +79,10 @@
 					    </div>
 					    <div id="collapse4" class="panel-collapse collapse">
 					      <ul class="list-group">
-					        <li class="list-group-item">One</li>
-					        <li class="list-group-item">Two</li>
-					        <li class="list-group-item">Three</li>
+					        <li class="list-group-item">9th Class</li>
+					        <li class="list-group-item">10th Class</li>
+					        <li class="list-group-item">11th Class</li>
+					        <li class="list-group-item">12th Class</li>
 					      </ul>
 					    </div>
   					</div>
@@ -96,9 +97,10 @@
 					    </div>
 					    <div id="collapse5" class="panel-collapse collapse">
 					      <ul class="list-group">
-					        <li class="list-group-item">One</li>
-					        <li class="list-group-item">Two</li>
-					        <li class="list-group-item">Three</li>
+					        <li class="list-group-item">Credit</li>
+					        <li class="list-group-item">Debit</li>
+					        <li class="list-group-item">Cash</li>
+					        <li class="list-group-item">Expens</li>
 					      </ul>
 					    </div>
   					</div>
