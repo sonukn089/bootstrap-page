@@ -20,14 +20,13 @@
   					<div class="panel panel-default">
 					    <div class="panel-heading">
 					      <h4 class="panel-title">
-					        <a data-toggle="collapse" href="#collapse1">Admin</a>
+					        <a data-toggle="collapse" href="#collapse1">Branch</a>
 					      </h4>
 					    </div>
 					    <div id="collapse1" class="panel-collapse collapse">
 					      <ul class="list-group">
-					        <li class="list-group-item">Registration</li>
-					        <li class="list-group-item">Update</li>
-					        <li class="list-group-item">View All</li>
+					        <li class="list-group-item">Add New Branch</li>
+					        <li class="list-group-item">Branch List</li>
 					      </ul>
 					    </div>
   					</div>
@@ -42,10 +41,11 @@
 					    </div>
 					    <div id="collapse2" class="panel-collapse collapse">
 					      <ul class="list-group">
-					        <li class="list-group-item">9th Class</li>
-					        <li class="list-group-item">10th Class</li>
-					        <li class="list-group-item">11th Class</li>
-					        <li class="list-group-item">12th Class</li>
+					        <li class="list-group-item">New Student</li>
+					        <li class="list-group-item">Student List</li>
+					        <li class="list-group-item">Edit and Update</li>
+					        <li class="list-group-item">Online Registration</li>
+					        <li class="list-group-item">View Certificate</li>
 					      </ul>
 					    </div>
   					</div>
@@ -55,20 +55,36 @@
   					<div class="panel panel-default">
 					    <div class="panel-heading">
 					      <h4 class="panel-title">
-					        <a data-toggle="collapse" href="#collapse3">Teacher</a>
+					        <a data-toggle="collapse" href="#collapse3">Fee Module</a>
 					      </h4>
 					    </div>
 					    <div id="collapse3" class="panel-collapse collapse">
 					      <ul class="list-group">
-					        <li class="list-group-item">Hindi</li>
-					        <li class="list-group-item">English</li>
-					        <li class="list-group-item">Math</li>
-					        <li class="list-group-item">Physics</li>
-					        <li class="list-group-item">Chemistry</li>
+					        <li class="list-group-item">Take Fee</li>
+					        <li class="list-group-item">Fee Report</li>
 					      </ul>
 					    </div>
   					</div>
 				</div>
+
+				<div class="panel-group">
+  					<div class="panel panel-default">
+					    <div class="panel-heading">
+					      <h4 class="panel-title">
+					        <a data-toggle="collapse" href="#collapse5">Accountant</a>
+					      </h4>
+					    </div>
+					    <div id="collapse5" class="panel-collapse collapse">
+					      <ul class="list-group">
+					        <li class="list-group-item">Credit</li>
+					        <li class="list-group-item">Debit</li>
+					        <li class="list-group-item">Cash</li>
+					        <li class="list-group-item">Expens</li>
+					      </ul>
+					    </div>
+  					</div>
+				</div>
+				
 
 				<div class="panel-group">
   					<div class="panel panel-default">
@@ -87,6 +103,8 @@
 					    </div>
   					</div>
 				</div>
+
+				
 
 				<div class="panel-group">
   					<div class="panel panel-default">
