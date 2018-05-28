@@ -60,9 +60,11 @@
 					    </div>
 					    <div id="collapse3" class="panel-collapse collapse">
 					      <ul class="list-group">
-					        <li class="list-group-item">One</li>
-					        <li class="list-group-item">Two</li>
-					        <li class="list-group-item">Three</li>
+					        <li class="list-group-item">Hindi</li>
+					        <li class="list-group-item">English</li>
+					        <li class="list-group-item">Math</li>
+					        <li class="list-group-item">Physics</li>
+					        <li class="list-group-item">Chemistry</li>
 					      </ul>
 					    </div>
   					</div>
