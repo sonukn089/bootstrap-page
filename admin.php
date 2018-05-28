@@ -25,9 +25,9 @@
 					    </div>
 					    <div id="collapse1" class="panel-collapse collapse">
 					      <ul class="list-group">
-					        <li class="list-group-item">One</li>
-					        <li class="list-group-item">Two</li>
-					        <li class="list-group-item">Three</li>
+					        <li class="list-group-item">Registration</li>
+					        <li class="list-group-item">Update</li>
+					        <li class="list-group-item">View All</li>
 					      </ul>
 					    </div>
   					</div>
@@ -42,9 +42,10 @@
 					    </div>
 					    <div id="collapse2" class="panel-collapse collapse">
 					      <ul class="list-group">
-					        <li class="list-group-item">One</li>
-					        <li class="list-group-item">Two</li>
-					        <li class="list-group-item">Three</li>
+					        <li class="list-group-item">9th Class</li>
+					        <li class="list-group-item">10th Class</li>
+					        <li class="list-group-item">11th Class</li>
+					        <li class="list-group-item">12th Class</li>
 					      </ul>
 					    </div>
   					</div>
